@@ -1,0 +1,21 @@
+model,descriptor,trend_type
+MS-CLAP,bright,Peak mid (0.6)
+MS-CLAP,calm,Monotonic down
+MS-CLAP,clear,Peak low (0.3)
+MS-CLAP,cold,Monotonic down
+MS-CLAP,cool,Peak mid (0.6)
+MS-CLAP,crisp,Monotonic down
+MS-CLAP,dark,Peak low (0.3)
+MS-CLAP,gentle,Peak low (0.3)
+MS-CLAP,hard,Monotonic down
+MS-CLAP,harsh,Peak mid (0.6)
+MS-CLAP,heavy,Monotonic down
+MS-CLAP,loud,Peak mid (0.6)
+MS-CLAP,mellow,Peak low (0.3)
+MS-CLAP,peaceful,Monotonic down
+MS-CLAP,sharp,Monotonic down
+MS-CLAP,smooth,Peak mid (0.6)
+MS-CLAP,soft,Peak mid (0.6)
+MS-CLAP,soothing,Monotonic down
+MS-CLAP,tinny,Peak mid (0.6)
+MS-CLAP,warm,Monotonic down

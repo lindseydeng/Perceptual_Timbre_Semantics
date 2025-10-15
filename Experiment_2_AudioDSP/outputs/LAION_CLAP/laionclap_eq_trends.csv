@@ -1,0 +1,21 @@
+model,descriptor,trend_type
+LAION-CLAP,bright,Monotonic up
+LAION-CLAP,calm,Monotonic up
+LAION-CLAP,clear,Monotonic up
+LAION-CLAP,cold,Peak high (1.0)
+LAION-CLAP,cool,Monotonic down
+LAION-CLAP,crisp,Monotonic up
+LAION-CLAP,dark,Monotonic up
+LAION-CLAP,gentle,Monotonic down
+LAION-CLAP,hard,Monotonic up
+LAION-CLAP,harsh,Peak high (1.0)
+LAION-CLAP,heavy,Monotonic up
+LAION-CLAP,loud,Monotonic up
+LAION-CLAP,mellow,Monotonic up
+LAION-CLAP,peaceful,Peak mid (0.6)
+LAION-CLAP,sharp,Monotonic up
+LAION-CLAP,smooth,Monotonic up
+LAION-CLAP,soft,Monotonic up
+LAION-CLAP,soothing,Monotonic up
+LAION-CLAP,tinny,Monotonic up
+LAION-CLAP,warm,Monotonic down

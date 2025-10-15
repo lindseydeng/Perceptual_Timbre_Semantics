@@ -1,0 +1,21 @@
+model,descriptor,trend_type
+MS-CLAP,bass,Monotonic down
+MS-CLAP,big,Peak mid (0.6)
+MS-CLAP,big-church,Monotonic up
+MS-CLAP,church,Peak mid (0.6)
+MS-CLAP,clear,Monotonic down
+MS-CLAP,deep,Peak mid (0.6)
+MS-CLAP,distant,Peak high (1.0)
+MS-CLAP,distorted,Peak low (0.3)
+MS-CLAP,echo,Peak mid (0.6)
+MS-CLAP,haunting,Monotonic up
+MS-CLAP,hollow,Peak mid (0.6)
+MS-CLAP,loud,Monotonic down
+MS-CLAP,low,Monotonic down
+MS-CLAP,muffled,Monotonic down
+MS-CLAP,nice,Monotonic down
+MS-CLAP,sad,Peak mid (0.6)
+MS-CLAP,soft,Monotonic down
+MS-CLAP,spacious,Monotonic down
+MS-CLAP,strong,Monotonic down
+MS-CLAP,warm,Monotonic down

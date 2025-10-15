@@ -1,0 +1,21 @@
+model,descriptor,trend_type
+MuQ-MuLan,bright,Peak high (1.0)
+MuQ-MuLan,calm,Monotonic down
+MuQ-MuLan,clear,Peak high (1.0)
+MuQ-MuLan,cold,Monotonic down
+MuQ-MuLan,cool,Monotonic down
+MuQ-MuLan,crisp,Peak low (0.3)
+MuQ-MuLan,dark,Monotonic up
+MuQ-MuLan,gentle,Monotonic down
+MuQ-MuLan,hard,Monotonic up
+MuQ-MuLan,harsh,Monotonic down
+MuQ-MuLan,heavy,Monotonic up
+MuQ-MuLan,loud,Monotonic up
+MuQ-MuLan,mellow,Monotonic up
+MuQ-MuLan,peaceful,Monotonic up
+MuQ-MuLan,sharp,Monotonic down
+MuQ-MuLan,smooth,Monotonic up
+MuQ-MuLan,soft,Monotonic down
+MuQ-MuLan,soothing,Monotonic down
+MuQ-MuLan,tinny,Monotonic down
+MuQ-MuLan,warm,Monotonic up

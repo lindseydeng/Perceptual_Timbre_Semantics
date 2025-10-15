@@ -1,0 +1,21 @@
+model,descriptor,trend_type
+MuQ-MuLan,bass,Monotonic down
+MuQ-MuLan,big,Monotonic down
+MuQ-MuLan,church,Monotonic down
+MuQ-MuLan,clear,Monotonic down
+MuQ-MuLan,deep,Monotonic down
+MuQ-MuLan,distant,Monotonic down
+MuQ-MuLan,distorted,Monotonic down
+MuQ-MuLan,echo,Monotonic up
+MuQ-MuLan,hall,Monotonic down
+MuQ-MuLan,haunting,Monotonic up
+MuQ-MuLan,hollow,Peak low (0.3)
+MuQ-MuLan,loud,Monotonic down
+MuQ-MuLan,low,Peak low (0.3)
+MuQ-MuLan,muffled,Monotonic up
+MuQ-MuLan,sad,Peak high (1.0)
+MuQ-MuLan,soft,Monotonic down
+MuQ-MuLan,spacious,Monotonic down
+MuQ-MuLan,strong,Monotonic down
+MuQ-MuLan,tinny,Monotonic down
+MuQ-MuLan,warm,Monotonic down

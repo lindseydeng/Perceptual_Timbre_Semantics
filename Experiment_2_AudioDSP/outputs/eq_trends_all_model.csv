@@ -1,0 +1,21 @@
+descriptor,MS_CLAP,LAION_CLAP,MuQ_MuLAN
+bright,Peak mid (0.6),Monotonic up,Peak high (1.0)
+calm,Monotonic down,Monotonic up,Monotonic down
+clear,Peak low (0.3),Monotonic up,Peak high (1.0)
+cold,Monotonic down,Peak high (1.0),Monotonic down
+cool,Peak mid (0.6),Monotonic down,Monotonic down
+crisp,Monotonic down,Monotonic up,Peak low (0.3)
+dark,Peak low (0.3),Monotonic up,Monotonic up
+gentle,Peak low (0.3),Monotonic down,Monotonic down
+hard,Monotonic down,Monotonic up,Monotonic up
+harsh,Peak mid (0.6),Peak high (1.0),Monotonic down
+heavy,Monotonic down,Monotonic up,Monotonic up
+loud,Peak mid (0.6),Monotonic up,Monotonic up
+mellow,Peak low (0.3),Monotonic up,Monotonic up
+peaceful,Monotonic down,Peak mid (0.6),Monotonic up
+sharp,Monotonic down,Monotonic up,Monotonic down
+smooth,Peak mid (0.6),Monotonic up,Monotonic up
+soft,Peak mid (0.6),Monotonic up,Monotonic down
+soothing,Monotonic down,Monotonic up,Monotonic down
+tinny,Peak mid (0.6),Monotonic up,Monotonic down
+warm,Monotonic down,Monotonic down,Monotonic up

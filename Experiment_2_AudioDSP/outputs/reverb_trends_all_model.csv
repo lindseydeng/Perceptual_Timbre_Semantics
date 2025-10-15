@@ -1,0 +1,21 @@
+descriptor,MS_CLAP,LAION_CLAP,MuQ_MuLAN
+bass,Peak mid (0.6),Peak mid (0.6),Monotonic down
+big,Peak mid (0.6),Peak mid (0.6),Monotonic down
+church,Peak mid (0.6),Monotonic up,Monotonic down
+clear,Monotonic down,Monotonic down,Monotonic down
+deep,Monotonic down,Monotonic up,Monotonic down
+distant,Monotonic down,Monotonic up,Monotonic down
+distorted,Monotonic up,Peak high (1.0),Monotonic down
+echo,Monotonic down,Monotonic up,Monotonic up
+hall,Peak mid (0.6),Monotonic up,Monotonic down
+haunting,Monotonic up,Monotonic up,Monotonic up
+hollow,Monotonic down,Monotonic up,Peak low (0.3)
+loud,Peak low (0.3),Peak low (0.3),Monotonic down
+low,Peak low (0.3),Monotonic up,Peak low (0.3)
+muffled,Monotonic down,Peak low (0.3),Monotonic up
+sad,Monotonic up,Peak high (1.0),Peak high (1.0)
+soft,Monotonic down,Monotonic up,Monotonic down
+spacious,Peak mid (0.6),Monotonic up,Monotonic down
+strong,Peak low (0.3),Monotonic up,Monotonic down
+tinny,Monotonic down,Monotonic up,Monotonic down
+warm,Monotonic down,Monotonic down,Monotonic down

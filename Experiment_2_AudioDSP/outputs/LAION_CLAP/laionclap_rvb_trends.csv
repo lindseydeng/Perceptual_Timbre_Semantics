@@ -1,0 +1,21 @@
+model,descriptor,trend_type
+LAION-CLAP,bass,Peak mid (0.6)
+LAION-CLAP,big,Peak mid (0.6)
+LAION-CLAP,church,Monotonic up
+LAION-CLAP,clear,Monotonic down
+LAION-CLAP,deep,Monotonic up
+LAION-CLAP,distant,Monotonic up
+LAION-CLAP,distorted,Peak high (1.0)
+LAION-CLAP,echo,Monotonic up
+LAION-CLAP,hall,Monotonic up
+LAION-CLAP,haunting,Monotonic up
+LAION-CLAP,hollow,Monotonic up
+LAION-CLAP,loud,Peak low (0.3)
+LAION-CLAP,low,Monotonic up
+LAION-CLAP,muffled,Peak low (0.3)
+LAION-CLAP,sad,Peak high (1.0)
+LAION-CLAP,soft,Monotonic up
+LAION-CLAP,spacious,Monotonic up
+LAION-CLAP,strong,Monotonic up
+LAION-CLAP,tinny,Monotonic up
+LAION-CLAP,warm,Monotonic down

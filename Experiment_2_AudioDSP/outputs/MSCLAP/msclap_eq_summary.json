@@ -1,0 +1,110 @@
+{
+  "model": "MS-CLAP",
+  "mean_delta_by_scale": [
+    {
+      "scale": 0.3,
+      "delta_target": 1.123174722492695
+    },
+    {
+      "scale": 0.6,
+      "delta_target": 0.5499219492077827
+    },
+    {
+      "scale": 1.0,
+      "delta_target": -0.5327431693673134
+    }
+  ],
+  "trend_counts": {
+    "Monotonic down": 9,
+    "Peak mid (0.6)": 7,
+    "Peak low (0.3)": 4
+  },
+  "top_positive_spearman": [
+    {
+      "descriptor": "harsh",
+      "spearman_delta_vs_scale": 0.5
+    },
+    {
+      "descriptor": "loud",
+      "spearman_delta_vs_scale": 0.5
+    },
+    {
+      "descriptor": "bright",
+      "spearman_delta_vs_scale": -0.5
+    },
+    {
+      "descriptor": "clear",
+      "spearman_delta_vs_scale": -0.5
+    },
+    {
+      "descriptor": "tinny",
+      "spearman_delta_vs_scale": -0.5
+    },
+    {
+      "descriptor": "cool",
+      "spearman_delta_vs_scale": -0.5
+    },
+    {
+      "descriptor": "dark",
+      "spearman_delta_vs_scale": -0.5
+    },
+    {
+      "descriptor": "gentle",
+      "spearman_delta_vs_scale": -0.5
+    },
+    {
+      "descriptor": "soft",
+      "spearman_delta_vs_scale": -0.5
+    },
+    {
+      "descriptor": "smooth",
+      "spearman_delta_vs_scale": -0.5
+    }
+  ],
+  "top_negative_spearman": [
+    {
+      "descriptor": "mellow",
+      "spearman_delta_vs_scale": -0.5
+    },
+    {
+      "descriptor": "sharp",
+      "spearman_delta_vs_scale": -1.0
+    },
+    {
+      "descriptor": "soothing",
+      "spearman_delta_vs_scale": -1.0
+    },
+    {
+      "descriptor": "heavy",
+      "spearman_delta_vs_scale": -1.0
+    },
+    {
+      "descriptor": "peaceful",
+      "spearman_delta_vs_scale": -1.0
+    },
+    {
+      "descriptor": "calm",
+      "spearman_delta_vs_scale": -1.0
+    },
+    {
+      "descriptor": "hard",
+      "spearman_delta_vs_scale": -1.0
+    },
+    {
+      "descriptor": "crisp",
+      "spearman_delta_vs_scale": -1.0
+    },
+    {
+      "descriptor": "cold",
+      "spearman_delta_vs_scale": -1.0
+    },
+    {
+      "descriptor": "warm",
+      "spearman_delta_vs_scale": -1.0
+    }
+  ],
+  "notes": [
+    "MS-CLAP similarities are scaled cosine logits; deltas are on that scale.",
+    "Compare patterns (signs, trends) across models rather than raw magnitudes."
+  ]
+}
